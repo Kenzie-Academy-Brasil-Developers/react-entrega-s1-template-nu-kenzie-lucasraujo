@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,600;0,700;0,800;1,400;1,600;1,700;1,800&display=swap');
+
+.title1{
+    font-size: 1.75rem;
+    font-weight: 800;
+    line-height: 3rem;
+    font-family: 'Nunito', sans-serif;
+}
+
+.title2{
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 2.125rem;
+    font-family: 'Nunito', sans-serif;
+}
+
+.title3{
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 1.875rem;
+    font-family: 'Nunito', sans-serif;
+}
+
+.title4{
+    font-size: 0.75rem;
+    font-weight: 600;
+    line-height: 1.625rem;
+    font-family: 'Nunito', sans-serif;
+}
+
+.text1{
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1rem;
+    font-family: 'Nunito', sans-serif;
+}
+
+.text2{
+    font-size: 0.75rem;
+    font-weight: 400;
+    line-height: 1.375rem;
+    font-family: 'Nunito', sans-serif;
+    
+}
+
+.textColorPrimary{
+    color: var(--Color-primary);
+}
+
+.textColorGrey4{
+    color: var(--Grey-4);
+ 
+}
+.textColorGrey3{
+    color: var(--Grey-3);
+ 
+}
+.textColorGrey1{
+    color: var(--Grey-1);
+ 
+}
